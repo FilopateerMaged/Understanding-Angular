@@ -1,4 +1,8 @@
-# AngularTourOfHeroes
+# Attempting to understand Angular coming from React and Next.js
+
+This repositry is my attempt at understanding Angular concepts and best practices, I've always used React as my FE framework and wanted to give Angular2 a try
+
+## AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
